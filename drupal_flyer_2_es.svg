@@ -66,6 +66,7 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,471.8858,1039.6003)"
    id="text3074"><tspan
@@ -73,6 +74,7 @@
      y="0"
      id="tspan3076"
      style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Mercado amplio</tspan></text>
+
 
 
 
@@ -141,6 +143,7 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,331.0394,769.6003)"
    id="text3178"><tspan
@@ -153,6 +156,7 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,471.8858,769.6003)"
    id="text3200"><tspan
@@ -160,6 +164,7 @@
      y="0"
      id="tspan3202"
      style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Buena documentación</tspan></text>
+
 
 
 
@@ -184,6 +189,7 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,190.1929,490.3878)"
    id="text3248"><tspan
@@ -191,6 +197,7 @@
      y="0"
      id="tspan3250"
      style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Versátil</tspan></text>
+
 
 
 
@@ -210,6 +217,7 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,471.8858,490.3878)"
    id="text3288"><tspan
@@ -217,6 +225,7 @@
      y="0"
      id="tspan3290"
      style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Sociedad</tspan></text>
+
 
 
 
@@ -235,6 +244,7 @@
      y="-769.60028"
      id="tspan3144"
      style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Sístema modular</tspan></text>
+
 
 
 
@@ -400,6 +410,7 @@
 
 
 
+
 <text
    x="226.75996"
    y="-838.45685"
@@ -411,6 +422,7 @@
      y="-838.45685"
      id="tspan7140-1"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">para desarrolladores</tspan></text>
+
 
 
 
@@ -432,6 +444,7 @@
 
 
 
+
 <text
    x="227.14366"
    y="-273.46945"
@@ -442,7 +455,8 @@
      x="227.14366"
      y="-273.46945"
      id="tspan7140-5"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">para directivas y directivos</tspan></text>
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">para tomadores de decisiones</tspan></text>
+
 
 
 
@@ -463,6 +477,7 @@
 
 
 
+
 <text
    x="330.19949"
    y="-1039.6642"
@@ -473,6 +488,7 @@
      y="-1039.6642"
      id="tspan3030-0-9"
      style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Ambiente inovador</tspan></text>
+
 
 
 
@@ -676,6 +692,7 @@
 
 
 
+
 <text
    x="194.57675"
    y="-205.367"
@@ -686,6 +703,7 @@
      y="-205.367"
      id="tspan3250-0"
      style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">En buena compañia</tspan></text>
+
 
 
 
@@ -704,6 +722,7 @@
 
 
 
+
 <text
    x="481.06967"
    y="-205.367"
@@ -714,6 +733,7 @@
      y="-205.367"
      id="tspan3290-2"
      style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">¡Un buen equipo!</tspan></text>
+
 
 
 
@@ -780,5 +800,6 @@
      x="389.11667"
      y="1327.7086"
      id="tspan7671"> </tspan></text>
+
 
 </g></svg>
