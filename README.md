@@ -11,7 +11,7 @@ We provide two types of formats:
 
 **Copyright/Copyleft**
 
-* Realization y texts: Felix Delattre, www.felix.delattre.de
+* Realization and editing: Felix Delattre, www.felix.delattre.de
 * Translation: Luis Dueñas, www.luisduenas.com
 * Based on a Flyer from the Drupal-Initiative Deutschland e.V., www.drupal-initiative.de
 * Design: Maike Jung, hexabinær Kommunikation, www.hexabinaer.de
