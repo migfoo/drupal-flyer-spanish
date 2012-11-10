@@ -8,14 +8,37 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
    width="796.59497"
    height="1459.1875"
    id="svg3004"
-   xml:space="preserve"><metadata
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="drupal_flyer_2_es.svg"><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview4850"
+     showgrid="false"
+     inkscape:zoom="1.2938707"
+     inkscape:cx="456.23635"
+     inkscape:cy="518.91924"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3012" /><metadata
      id="metadata3010"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs3008"><clipPath
        id="clipPath3018"><path
          d="m 70.889,603.605 105.13,0 0,106.923 -105.13,0 0,-106.923 z"
@@ -67,6 +90,7 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,471.8858,1039.6003)"
    id="text3074"><tspan
@@ -74,6 +98,7 @@
      y="0"
      id="tspan3076"
      style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Mercado amplio</tspan></text>
+
 
 
 
@@ -144,6 +169,7 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,331.0394,769.6003)"
    id="text3178"><tspan
@@ -157,6 +183,7 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,471.8858,769.6003)"
    id="text3200"><tspan
@@ -164,6 +191,7 @@
      y="0"
      id="tspan3202"
      style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Buena documentación</tspan></text>
+
 
 
 
@@ -190,6 +218,7 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,190.1929,490.3878)"
    id="text3248"><tspan
@@ -197,6 +226,7 @@
      y="0"
      id="tspan3250"
      style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Versátil</tspan></text>
+
 
 
 
@@ -218,13 +248,15 @@
 
 
 
+
 <text
    transform="matrix(1,0,0,-1,471.8858,490.3878)"
    id="text3288"><tspan
      x="0"
      y="0"
      id="tspan3290"
-     style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Sociedad</tspan></text>
+     style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Social</tspan></text>
+
 
 
 
@@ -243,7 +275,8 @@
      x="49.3465"
      y="-769.60028"
      id="tspan3144"
-     style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Sístema modular</tspan></text>
+     style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Sistema modular</tspan></text>
+
 
 
 
@@ -411,6 +444,7 @@
 
 
 
+
 <text
    x="226.75996"
    y="-838.45685"
@@ -422,6 +456,7 @@
      y="-838.45685"
      id="tspan7140-1"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">para desarrolladores</tspan></text>
+
 
 
 
@@ -445,6 +480,7 @@
 
 
 
+
 <text
    x="227.14366"
    y="-273.46945"
@@ -456,6 +492,7 @@
      y="-273.46945"
      id="tspan7140-5"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">para tomadores de decisiones</tspan></text>
+
 
 
 
@@ -478,6 +515,7 @@
 
 
 
+
 <text
    x="330.19949"
    y="-1039.6642"
@@ -487,7 +525,8 @@
      x="330.19949"
      y="-1039.6642"
      id="tspan3030-0-9"
-     style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Ambiente inovador</tspan></text>
+     style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">Ambiente innovador</tspan></text>
+
 
 
 
@@ -520,18 +559,14 @@
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><flowRegion
      id="flowRegion5438"><rect
-       width="149.71875"
-       height="151.23872"
+       width="155.12888"
+       height="151.23871"
        x="59.279491"
        y="170.99854"
        id="rect5440"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro" /></flowRegion><flowPara
-     id="flowPara5486"
-     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Principiantes pueden escoger de una gran cantidad de diseños disponibles para dar una apariencia individual a su sitio web en pocos pasos. Conocimiento en CSS- y HTML no es un requisito.</flowPara><flowPara
-     id="flowPara7586"
-     style="font-size:11.25px;line-height:150%;fill:#1a1a1a" /><flowPara
      id="flowPara7588"
-     style="font-size:11.25px;line-height:150%;fill:#1a1a1a" /></flowRoot><flowRoot
+     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Los principiantes pueden escoger entre una gran cantidad de diseños disponibles para dar una apariencia personalizada a su sitio web en pocos pasos. Conocer CSS y HTML no es un requisito.</flowPara></flowRoot><flowRoot
    transform="matrix(0.8,0,0,-0.8,141.42366,1162.1734)"
    id="flowRoot5436-1"
    xml:space="preserve"
@@ -544,20 +579,20 @@
        id="rect5440-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro" /></flowRegion><flowPara
      id="flowPara7595"
-     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Con Drupal se puede realizar hasta ideas extraordinarias e inusuales. Para implementar un diseño en Drupal se goza de un código fuente limpio y genérico: Para muchos de los diseños, es suficiente editar la hoja de estilo y así se permite una gran flexibilidad en cada detalle.</flowPara></flowRoot><flowRoot
+     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Con Drupal se puede realizar ideas extraordinarias e hasta inusuales. Para implementar un diseño en Drupal se goza de un código fuente limpio y genérico: Para muchos de los diseños es suficiente editar la hoja de estilo y así se permite una gran flexibilidad en cada detalle.</flowPara></flowRoot><flowRoot
    transform="matrix(0.8,0,0,-0.8,282.16681,1161.8438)"
    id="flowRoot5436-1-4"
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><flowRegion
      id="flowRegion5438-5-9"><rect
-       width="157.31868"
-       height="182.39845"
+       width="153.45433"
+       height="199.40167"
        x="59.279491"
        y="170.99854"
        id="rect5440-4-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro" /></flowRegion><flowPara
      id="flowPara7561"
-     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Drupal no fija límites. El sistema de plantillas es flexible y apoya todas las técnicas modernas y está listo para HTML5. Además existe una gran variedad de extensiones innovadoras para los desarrollos más modernos en la web, como Frameworks para diseños responsivos, la web semántica y diseños cambiables.</flowPara></flowRoot><flowRoot
+     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Drupal no fija límites. Su sistema de plantillas es flexible y apoya las técnicas modernas ¡está listo para HTML5! Contando con una gran variedad de extensiones innovadoras, ofreciendo Frameworks para diseño responsivo, la web semántica y plantillas conforme a las normas de accesibilidad.</flowPara></flowRoot><flowRoot
    transform="matrix(0.8,0,0,-0.8,423.73244,1162.1801)"
    id="flowRoot5436-1-4-0"
    xml:space="preserve"
@@ -570,7 +605,7 @@
        id="rect5440-4-1-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro" /></flowRegion><flowPara
      id="flowPara7573"
-     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Para creadores de temas de Drupal nuevos y específicos hay muchas espacio. El mercado está lejos de agotarse y ofrece buenas oportunidades para construir un modelo de negocio.</flowPara></flowRoot><flowRoot
+     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Hay mucho espacio para creadores de temas gráficos de Drupal, nuevos y específicos. El mercado está lejos de agotarse y ofrece buenas oportunidades para construir un modelo de negocio.</flowPara></flowRoot><flowRoot
    transform="matrix(0.8,0,0,-0.8,1.8265158,894.85136)"
    id="flowRoot5436-10"
    xml:space="preserve"
@@ -583,20 +618,20 @@
        id="rect5440-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro" /></flowRegion><flowPara
      id="flowPara7577"
-     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">&quot;¡Para todo hay un módulo!&quot; Existen miles de extensiones que pueden ser fácilmente combinados.</flowPara></flowRoot><flowRoot
+     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">&quot;¡Para todo hay un módulo!&quot; Existen miles de extensiones que pueden ser fácilmente combinadas.</flowPara></flowRoot><flowRoot
    transform="matrix(0.8,0,0,-0.8,143.6452,894.72155)"
    id="flowRoot5436-10-4"
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><flowRegion
      id="flowRegion5438-3-8"><rect
-       width="155.03873"
-       height="176.31853"
+       width="149.6286"
+       height="177.86429"
        x="59.279491"
        y="170.99854"
        id="rect5440-3-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro" /></flowRegion><flowPara
      id="flowPara5633"
-     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Drupal es más que un CMS. El núcleo proporciona interfaces de programación de gran alcance y Frameworks poderosos a los desarrolladores. Propiamente definidos estándares de código aseguran que todos los módulos se integran perfectamente en la estructura típica de caja de herramientas.</flowPara></flowRoot><flowRoot
+     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Drupal es más que un CMS. El núcleo proporciona interfaces de programación de gran alcance y Frameworks poderosos. Sus estándares de código apropiadamente definidos aseguran que todos los módulos se integran perfectamente en la estructura típica de &quot;caja de herramientas&quot;.</flowPara></flowRoot><flowRoot
    transform="matrix(0.8,0,0,-0.8,284.33026,895.15974)"
    id="flowRoot5436-10-4-8"
    xml:space="preserve"
@@ -609,7 +644,7 @@
        id="rect5440-3-9-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro" /></flowRegion><flowPara
      id="flowPara7624"
-     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Preguntas son respondidas rápidamente en listas de correo, chats IRC o foros. Las nuevas ideas se convierten en carreras cortas en campamentos y conferencias de la misma comunidad, como los Code Sprints en DrupalCamps, DrupalSummits y DrupalCons.</flowPara></flowRoot><flowRoot
+     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Las preguntas son respondidas rápidamente en listas de correos, chats IRC o foros. Las nuevas ideas se realizan colaborativamente en campamentos y conferencias de la misma comunidad, como los Code Sprints en DrupalCamps, DrupalSummits y DrupalCons.</flowPara></flowRoot><flowRoot
    transform="matrix(0.8,0,0,-0.8,424.74886,895.23641)"
    id="flowRoot5436-10-4-8-1"
    xml:space="preserve"
@@ -644,13 +679,13 @@
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><flowRegion
      id="flowRegion5438-3-8-2"><rect
        width="155.03873"
-       height="176.31853"
+       height="208.00641"
        x="59.279491"
        y="170.99854"
        id="rect5440-3-9-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro" /></flowRegion><flowPara
      id="flowPara7652"
-     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">¿Sitio web, blog, galeria de fotos, foro, wiki? Drupal está listo para usarse en tan solo unos pocos pasos y expandirse fácilmente. Usted puede escoger de miles de extensiones y cientos de diseños libremente disponible.  De está manera le permite tener una herramienta para ofrecer contenido en tiempo record.</flowPara></flowRoot><flowRoot
+     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">¿Sitio web, blog, galeria de fotos, foro, wiki? Drupal está listo para usarse en tan solo unos pocos pasos y expandirse fácilmente. Usted puede escoger entre miles de extensiones y cientos de diseños libremente disponibles. Esto le permite crear una herramienta individual en tiempo record para publicar contenido en la web.</flowPara></flowRoot><flowRoot
    transform="matrix(0.8,0,0,-0.8,283.53905,615.72305)"
    id="flowRoot5436-10-4-8-6"
    xml:space="preserve"
@@ -693,6 +728,7 @@
 
 
 
+
 <text
    x="194.57675"
    y="-205.367"
@@ -703,6 +739,7 @@
      y="-205.367"
      id="tspan3250-0"
      style="font-size:11px;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#2d2c2e;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:MyriadPro-Regular">En buena compañia</tspan></text>
+
 
 
 
@@ -723,6 +760,7 @@
 
 
 
+
 <text
    x="481.06967"
    y="-205.367"
@@ -738,20 +776,21 @@
 
 
 
+
 <flowRoot
    transform="matrix(0.8,0,0,-0.8,0.619181,330.39398)"
    id="flowRoot5436-10-0-7"
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><flowRegion
      id="flowRegion5438-3-3-8"><rect
-       width="149.71875"
-       height="151.23872"
+       width="148.173"
+       height="190.65532"
        x="59.279491"
        y="170.99854"
        id="rect5440-3-5-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro" /></flowRegion><flowPara
      id="flowPara7663"
-     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">Open Source (Código abierto) está ganando más y más reconocimiento en el mundo de los negocios. PHP es el estándar de facto para las aplicaciones web. Con estos dos pilares el sistema tiene una base solida y es la solución ideal para su necesidad.</flowPara></flowRoot><flowRoot
+     style="font-size:11.25px;line-height:150%;fill:#1a1a1a">El Open Source (Código abierto), componente del Software Libre,  está ganando más y más reconocimiento en el mundo de los negocios. PHP es el estándar de facto para las aplicaciones web. Con estos dos pilares el sistema tiene una base solida y es la solución ideal para su necesidad.</flowPara></flowRoot><flowRoot
    transform="matrix(0.8,0,0,-0.8,147.23787,330.26398)"
    id="flowRoot5436-10-4-3-2"
    xml:space="preserve"
@@ -800,6 +839,7 @@
      x="389.11667"
      y="1327.7086"
      id="tspan7671"> </tspan></text>
+
 
 
 </g></svg>

@@ -8,10 +8,36 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
    width="797"
    height="1460"
-   id="svg6323">
+   id="svg6323"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="drupal_flyer_es.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview1573"
+     showgrid="false"
+     inkscape:zoom="1.2931507"
+     inkscape:cx="480.31378"
+     inkscape:cy="852.91148"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <defs
      id="defs6325">
     <clipPath
@@ -183,7 +209,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5332,38 +5358,41 @@
            id="rect13484"
            style="fill:#1a1a1a" /></flowRegion><flowPara
          id="flowPara7618"
-         style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Drupal es uno de los Sistemas de Gestión de Contenido (CMS, en inglés) más utilizados a nivel mundial. Este marco de aplicación (Application-Framework) permite que prácticamente cualquier tipo de sitio web sea implementado de forma rápida y grantizando alta calidad.</flowPara><flowPara
+         style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Drupal es uno de los Sistemas de Gestión de Contenido (CMS, en inglés) más utilizados a nivel mundial. Este marco de aplicación (Application-Framework) permite que prácticamente cualquier tipo de sitio web sea implementado de forma rápida garantizando alta calidad.</flowPara><flowPara
          id="flowPara6714"
-         style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"></flowPara><flowPara
+         style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro" /><flowPara
          id="flowPara6716"
          style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:150%;text-anchor:start;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Drupal es Software Libre, desarrollado por la comunidad de Drupal e integrado en todo el mundo por miles de desarrolladores y empresas.</flowPara></flowRoot>    <text
        x="193.23805"
-       y="436.6489"
+       y="435.10226"
        id="text13959"
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"><tspan
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"
+       sodipodi:linespacing="125%"><tspan
          x="193.23805"
-         y="436.6489"
+         y="435.10226"
          id="tspan13961"
          style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#42abdd;fill-opacity:1;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">drupal.com</tspan></text>
     <text
        x="193.85109"
-       y="492.10107"
+       y="487.32776"
        id="text13959-4"
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"><tspan
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"
+       sodipodi:linespacing="125%"><tspan
          x="193.85109"
-         y="492.10107"
+         y="487.32776"
          id="tspan13961-9"
          style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#42abdd;fill-opacity:1;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">dlatino.org</tspan></text>
     <text
        x="183.86606"
-       y="524.55023"
+       y="510.55023"
        id="text13959-4-1"
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"><tspan
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"
+       sodipodi:linespacing="125%"><tspan
          x="183.86606"
-         y="524.55023"
+         y="510.55023"
          id="tspan13961-9-5"
          style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#42abdd;fill-opacity:1;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">drupal.org.es</tspan></text>
     <text
@@ -5378,28 +5407,30 @@
          style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#42abdd;fill-opacity:1;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">drupal.org</tspan></text>
     <text
        x="96.25589"
-       y="571.0968"
+       y="565.0968"
        id="text13959-5"
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"><tspan
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"
+       sodipodi:linespacing="125%"><tspan
          x="96.25589"
-         y="571.0968"
+         y="565.0968"
          id="tspan13961-6"
          style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#42abdd;fill-opacity:1;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">groups.drupal.org/latin-america</tspan></text>
     <text
        x="124.5599"
-       y="590.39996"
+       y="584.39996"
        id="text13959-5-5"
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"><tspan
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"
+       sodipodi:linespacing="125%"><tspan
          x="124.5599"
-         y="590.39996"
+         y="584.39996"
          id="tspan13961-6-1"
          style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#42abdd;fill-opacity:1;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">groups.drupal.org/<tspan
    id="tspan15332"
-   style="fill:#666666">su-país</tspan></tspan></text>
+   style="fill:#808080">su-país</tspan></tspan></text>
     <flowRoot
-       transform="translate(196.59012,-50.241965)"
+       transform="translate(196.59012,-51.788575)"
        id="flowRoot13480-1"
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"><flowRegion
@@ -5411,21 +5442,21 @@
            id="rect13484-6"
            style="fill:#1a1a1a" /></flowRegion><flowPara
          id="flowPara13486-5"
-         style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Sitio informativo sobre Drupal (en inglés).</flowPara></flowRoot>    <flowRoot
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Sitio informativo sobre Drupal (en inglés).</flowPara></flowRoot>    <flowRoot
        transform="translate(196.59012,-28.869145)"
        id="flowRoot13480-1-3"
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"><flowRegion
          id="flowRegion13482-3-8"><rect
-           width="285.76419"
-           height="188.23732"
+           width="305.09683"
+           height="185.91739"
            x="59.774529"
            y="476.34198"
            id="rect13484-6-5"
            style="fill:#1a1a1a" /></flowRegion><flowPara
          id="flowPara13486-5-9"
-         style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Sitio principal, en inglés, orientado a todas y todos quienes desarrollan, construyen con, diseñan para o usan Drupal.</flowPara></flowRoot>    <flowRoot
-       transform="translate(196.59012,7.358461)"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Sitio principal, en inglés, orientado a todas y todos quienes desarrollan con Drupal, construyen Drupal, diseñan para Drupal o usan Drupal.</flowPara></flowRoot>    <flowRoot
+       transform="translate(196.59012,3.358461)"
        id="flowRoot13480-1-0"
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"><flowRegion
@@ -5437,8 +5468,10 @@
            id="rect13484-6-7"
            style="fill:#1a1a1a" /></flowRegion><flowPara
          id="flowPara13486-5-7"
-         style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Sitio informativo sobre la comunindad de Drupal en Latinoamérica.</flowPara></flowRoot>    <flowRoot
-       transform="translate(196.59012,39.641952)"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Sitio informativo sobre la comunidad de Drupal en América Latina.</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         id="flowPara4613" /></flowRoot>    <flowRoot
+       transform="translate(196.59012,25.641952)"
        id="flowRoot13480-1-3-7"
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"><flowRegion
@@ -5450,8 +5483,8 @@
            id="rect13484-6-5-7"
            style="fill:#1a1a1a" /></flowRegion><flowPara
          id="flowPara13486-5-9-9"
-         style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Plataforma en español con tútoriales básicos sobre la instalación y el funcionamiento de Drupal, asi como preguntas y respuestas, etc..</flowPara></flowRoot>    <flowRoot
-       transform="translate(196.59012,83.910577)"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Plataforma en Español con tutoriales básicos sobre la instalación y el funcionamiento de Drupal, asi como preguntas y respuestas, etc..</flowPara></flowRoot>    <flowRoot
+       transform="translate(195.81681,79.910577)"
        id="flowRoot13480-1-1"
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"><flowRegion
@@ -5463,7 +5496,7 @@
            id="rect13484-6-73"
            style="fill:#1a1a1a" /></flowRegion><flowPara
          id="flowPara13486-5-4"
-         style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Grupos temáticos y regionales.</flowPara></flowRoot>    <rect
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Grupos y regionales.</flowPara></flowRoot>    <rect
        width="225.38734"
        height="145.33736"
        ry="0.22790882"
@@ -6386,5 +6419,31 @@
            style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       </g>
     </g>
+    <flowRoot
+       transform="translate(194.89269,56.712053)"
+       id="flowRoot13480-1-1-2"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"><flowRegion
+         id="flowRegion13482-3-87-2"><rect
+           width="285.76419"
+           height="188.23732"
+           x="59.774529"
+           y="476.34198"
+           id="rect13484-6-73-3"
+           style="fill:#1a1a1a" /></flowRegion><flowPara
+         id="flowPara13486-5-4-0"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;fill:#1a1a1a;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Grupos y tematicos.</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       x="131.14584"
+       y="543.25232"
+       id="text13959-5-8"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1fa71f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Modern Pictograms;-inkscape-font-specification:Modern Pictograms"><tspan
+         x="131.14584"
+         y="543.25232"
+         id="tspan13961-6-3"
+         style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#42abdd;fill-opacity:1;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">groups.drupal.org/<tspan
+   style="fill:#808080;font-size:10px"
+   id="tspan4611">html5</tspan></tspan></text>
   </g>
 </svg>
