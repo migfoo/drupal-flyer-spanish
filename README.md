@@ -13,7 +13,7 @@ We provide two types of formats:
 
 * Realization and editing: Felix Delattre, www.felix.delattre.de
 * Translation: Luis Dueñas, www.luisduenas.com
-* Revision lingüistica: Rodrigo Rodríguez, www.mundonomada.info
+* Language revision: Rodrigo Rodríguez, www.mundonomada.info
 * Based on a Flyer from the Drupal-Initiative Deutschland e.V., www.drupal-initiative.de
 * Design: Maike Jung, hexabinær Kommunikation, www.hexabinaer.de
 
